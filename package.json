@@ -1,0 +1,21 @@
+{
+  "name": "playwright_endtoend_ecommerce_project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NIKHIL-PINGALE/Playwright_EndToEnd_Ecommerce_Project.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NIKHIL-PINGALE/Playwright_EndToEnd_Ecommerce_Project/issues"
+  },
+  "homepage": "https://github.com/NIKHIL-PINGALE/Playwright_EndToEnd_Ecommerce_Project#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.32.1"
+  }
+}
